@@ -1,0 +1,2 @@
+;;; Generated package description from /home/hanshen/.emacs.d/elpa/27.1/develop/transmission-20210705.2152/transmission.el  -*- no-byte-compile: t -*-
+(define-package "transmission" "20210705.2152" "Interface to a Transmission session" '((emacs "24.4") (let-alist "1.0.5")) :commit "a03a6f5c7b133e0a37896b6d993dd6d6d4532cc2" :authors '(("Mark Oteiza" . "mvoteiza@udel.edu")) :maintainer '("Mark Oteiza" . "mvoteiza@udel.edu") :keywords '("comm" "tools"))

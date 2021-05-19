@@ -36,8 +36,8 @@ bookmarks
 crown/
 eclipse.jdt.ls
 edts/
+elpa/27.1/develop/archives/
 elnode/
-elpa/
 EmmyLua-LS-all.jar
 eproject.lst
 eshell/alias
@@ -50,7 +50,11 @@ mspyls/
 my-org/
 nov-places
 org-files/
+org-gcal/
+.org-generic-id-locations
+.org-id-locations
 org-journal.cache
+persist/
 projectile-bookmarks.eld
 projectile.cache
 python-*-docs-html
@@ -69,11 +73,11 @@ workspace
 /doc/COMMUNITY.org
 /doc/CONTRIBUTING.org
 /games/
-private/
 !private/README.md
 !private/snippets/README.md
 !private/templates/README.md
 !private/local/README.md
+!private/google-calendar
 
 # Ignore tags created by cscope, etags, ctags, and gtags (GNU global)
 # source: https://github.com/github/gitignore/blob/master/Global/Tags.gitignore

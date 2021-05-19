@@ -1,0 +1,3 @@
+[submodule "private/google-calendar"]
+	path = private/google-calendar
+	url = git@github.com:HanshenWang/google-calendar-layer.git

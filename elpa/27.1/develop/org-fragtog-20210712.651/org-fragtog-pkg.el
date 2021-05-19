@@ -1,0 +1,2 @@
+;;; Generated package description from /home/hanshen/.emacs.d/elpa/27.1/develop/org-fragtog-20210712.651/org-fragtog.el  -*- no-byte-compile: t -*-
+(define-package "org-fragtog" "20210712.651" "Auto-toggle Org LaTeX fragments" '((emacs "24.3") (org "9.3.2")) :commit "90b748a62ca51b0869f68baaec7de7d21904079e" :authors '(("Benjamin Levy" . "blevy@protonmail.com")) :maintainer '("Benjamin Levy" . "blevy@protonmail.com") :url "https://github.com/io12/org-fragtog")
